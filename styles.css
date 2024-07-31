@@ -1,20 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 header {
-    background: #fff;
-    color: #000;
-    padding: 10px 0;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px 0;
     text-align: center;
 }
 
 header h1 {
+    font-family: 'Playfair Display', serif;
     margin: 0;
+    padding-bottom: 20px; /* Increased padding between name and navigation */
+}
+
+nav {
+    border-top: 1px solid #fff; /* Separator line above navigation */
+    padding-top: 10px;
 }
 
 nav ul {
