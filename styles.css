@@ -50,3 +50,9 @@ main img {
     max-width: 100%;
     height: auto;
 }
+
+.test {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-style: normal;
+}
