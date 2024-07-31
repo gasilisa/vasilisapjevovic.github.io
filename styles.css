@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-    font-family: 'Arial', 'Helvetica', sans-serif; /* Updated font family for the name */
+    font-family: "Cormorant Garamond", serif; /* Updated font family for the name */
     font-size: 56px;
     margin: 0;
     padding-top: 40px;
@@ -49,10 +49,4 @@ main {
 main img {
     max-width: 100%;
     height: auto;
-}
-
-.test {
-  font-family: "Cormorant Garamond", serif;
-  font-weight: 600;
-  font-style: normal;
 }
