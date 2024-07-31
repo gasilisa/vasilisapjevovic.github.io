@@ -18,7 +18,7 @@ header h1 {
     font-size: 56px;
     margin: 0;
     padding-top: 40px;
-    padding-bottom: 20px; /* Increased padding between name and navigation */
+    padding-bottom: 40px; /* Increased padding between name and navigation */
 }
 
 
