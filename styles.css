@@ -47,6 +47,12 @@ main {
     text-align: center;
 }
 
+@media (min-width: 576px) {
+    nav ul li {
+        font-size: 20px;
+    }
+}
+
 main img {
     max-width: 100%;
     height: auto;
