@@ -47,7 +47,7 @@ main {
     text-align: center;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     nav ul li {
         font-size: 10px;
     }
