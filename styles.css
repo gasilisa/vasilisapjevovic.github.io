@@ -50,9 +50,11 @@ main {
 @media (max-width: 576px) {
     nav ul li {
         font-size: 12px;
+        line-spacing: 110%;
     }
     header div h1 {
         font-size: 34px;
+        line-spacing: 110%;
     }
 }
 
