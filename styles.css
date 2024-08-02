@@ -53,8 +53,10 @@ main {
         font-size: 12px;
         margin: 0 7px;
     }
-    header div h1 {
+    header h1 {
         font-size: 34px;
+        padding-top: 20px;
+        padding-bottom: 25px;
     }
 }
 
