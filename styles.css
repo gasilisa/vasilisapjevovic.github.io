@@ -30,6 +30,7 @@ nav ul {
     font-family: "Sen", sans-serif;
     list-style: none;
     padding-top: 15px;
+    padding-left: 0px;
 }
 
 nav ul li {
@@ -50,11 +51,9 @@ main {
 @media (max-width: 576px) {
     nav ul li {
         font-size: 12px;
-        padding-left: 0px;
     }
     header div h1 {
         font-size: 34px;
-        line-spacing: 110%;
     }
 }
 
